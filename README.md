@@ -14,6 +14,6 @@ You can see the list of available products in the application
 You can create any kind of categories for products, to have in order all your catalogs.
 
 ***Updating Products***
-![Product Registration FORM](/docimages/editProduct.png)
+![Product Registration FORM](/imagesDocumentation/editProduct.png)
 In this form, you will be able to load any kind of product, considering that data related to products are the price, the quantity, description, and the categories.
 
